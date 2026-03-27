@@ -1,1 +1,0 @@
-﻿print("ml_core/scoring/rule_score.py - Scoring business rules")
